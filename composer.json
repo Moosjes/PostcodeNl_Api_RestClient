@@ -1,19 +1,19 @@
 {
-    "name": "postcode-nl/api-restclient",
+    "name": "scouting-nl/api-restclient",
     "description": "A client to the Postcode.nl Address API for Dutch address verification. You will need to create an account at https://api.postcode.nl.",
     "keywords": ["postcode", "netherlands", "api", "rest", "client", "magento", "address"],
     "license": "BSD-2-Clause",
-    "authors": [{"name": "Maarten Scholder", "role": "Developer"}],
-    "homepage": "https://api.postcode.nl",
+    "authors": [{"name": "Twan van de Moosdijk", "role": "Developer"}],
+    "homepage": "https://www.scouting.nl",
     "support": {
-        "email": "tech@postcode.nl",
+        "email": "teaminternet@scouting.nl",
         "issues": "https://github.com/postcode-nl/PostcodeNl_Api_RestClient/issues",
         "support": "https://github.com/postcode-nl/PostcodeNl_Api_RestClient"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/postcode-nl/PostcodeNl_Api_RestClient"
+            "url": "https://github.com/Moosjes/PostcodeNl_Api_RestClient"
         }
     ],
     "autoload": {
