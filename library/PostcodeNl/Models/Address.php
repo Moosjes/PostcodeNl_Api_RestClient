@@ -60,7 +60,7 @@ class PostcodeNl_Model_Address implements ArrayAccess {
      *
      * @return int
      */
-    public function getHousNumber()
+    public function getHouseNumber()
     {
         return $this->offsetGet('houseNumber');
     }
